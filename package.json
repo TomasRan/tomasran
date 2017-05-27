@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/TomasRan/tomasran#readme",
   "dependencies": {
+    "antd": "^2.10.2",
     "babel-polyfill": "^6.23.0",
     "immutable": "^3.8.1",
     "react": "^15.5.4",
